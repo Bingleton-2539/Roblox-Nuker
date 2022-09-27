@@ -1,2 +1,2 @@
 # Roblox-Nuker
-Nukes roblox accounts
+Nukes roblox accounts and thats it
